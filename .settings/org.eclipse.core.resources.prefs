@@ -1,0 +1,6 @@
+eclipse.preferences.version=1
+encoding//doubanbook/items.py=utf-8
+encoding//doubanbook/middlewares.py=utf-8
+encoding//doubanbook/pipelines.py=utf-8
+encoding//doubanbook/settings.py=utf-8
+encoding//doubanbook/spiders/computer.py=utf-8
